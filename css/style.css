@@ -1,0 +1,28 @@
+/*global css start*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol,
+li {
+    list-style-type: none;
+}
+
+/*global css end*/
+
+
+.course-title-link:hover {
+    text-decoration: underline;
+    color: #716027;
+}
+
+.sec-act-btn:hover{
+    background-color: #716027;
+}
