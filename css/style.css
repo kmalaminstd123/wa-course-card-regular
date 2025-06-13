@@ -17,6 +17,9 @@ li {
 
 /*global css end*/
 
+.course-title-link{
+    font-size: 17px;
+}
 
 .course-title-link:hover {
     text-decoration: underline;
